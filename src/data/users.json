@@ -1,0 +1,63 @@
+[
+    {
+        "name":"Jackson Prescott",
+        "profession":"Senior Web Developer",
+        "profile":"../src/img/0.jpg",
+        "comment":"Lorem ipsum dolor sit amet consectetur adipiscing elit taciti senectus sagittis curabitur mollis, suscipit quam magna fusce."
+    },
+    {
+        "name": "Alberto Thompson",
+        "profession": "Senior Art Designer",
+        "profile": "../src/img/1.jpg",
+        "comment": "Enim interdum dignissim purus auctor proin augue himenaeos, pharetra vel rutrum posuere faucibus nascetur quisque laoreet."
+    },
+    {
+        "name": "Dave Gonzalez",
+        "profession": "Data Engineer",
+        "profile": "../src/img/2.jpg",
+        "comment": "Ornare nibh mattis nisi varius venenatis cum litora parturient massa dui tortor."
+    },
+    {
+        "name": "Frances Dunn",
+        "profession": "Software Architect",
+        "profile": "../src/img/3.jpg",
+        "comment": "Lectus primis nostra aptent fusce class auctor at malesuada. Pulvinar nullam tempor mattis risus leo aenean."
+    },
+    {
+        "name": "Amanda Schmidt",
+        "profession": "Teacher",
+        "profile": "../src/img/4.jpg",
+        "comment": "Arcu interdum praesent neque vehicula habitant inceptos euismod viverra mattis fringilla, cum rutrum class."
+    },
+    {
+        "name": "Erin Graves",
+        "profession": "Flight Attendant",
+        "profile": "../src/img/5.jpg",
+        "comment": "Venenatis tortor maecenas interdum enim vivamus nascetur bibendum natoque, curabitur nostra tristique quam."
+    },
+    {
+        "name": "Juanita Watkins",
+        "profession": "Social Media Manager",
+        "profile": "../src/img/6.jpg",
+        "comment": "Orci justo nascetur mus suspendisse hendrerit, vehicula vivamus praesent non diam, himenaeos interdum sapien ultricies"
+    },
+    {
+        "name": "Danny Ramirez",
+        "profession": "Policeman",
+        "profile": "../src/img/7.jpg",
+        "comment": "Condimentum aliquet justo nostra curae nisi blandit vitae, cum montes ultrices potenti porttitor varius ante."
+    },
+    {
+        "name": "Enrique Powell",
+        "profession": "Civil Engineer",
+        "profile": "../src/img/8.jpg",
+        "comment": "Per montes sem class dictumst scelerisque imperdiet bibendum massa cursus senectus, gravida vitae dis pulvinar dui."
+    },
+    {
+        "name": "Kon Wengue",
+        "profession": "Concept Artist",
+        "profile": "../src/img/9.jpg",
+        "comment": "Ac luctus aenean orci consequat turpis nostra quisque curae diam auctor potenti, vestibulum cubilia vulputate varius nec."
+    }
+
+]
