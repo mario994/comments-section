@@ -1,5 +1,3 @@
-import css from './css/main.css';
-import 'regenerator-runtime/runtime';
 //html elements to set
 const photo = document.querySelector('.photo');
 const name = document.querySelector('.name');
@@ -10,7 +8,7 @@ const btnRight = document.querySelector('.fa-angle-right');
 const btnLeft = document.querySelector('.fa-angle-left');
 const btnRandom = document.querySelector('.random');
 
-const url = '../src/data/users.json'; //End point
+const url = './data/users.json'; //End point
 let currentUser = 0; //Set user
 
 //Getting data from users.json
